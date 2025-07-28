@@ -1,0 +1,14 @@
+*.pth
+**/__pycache__/**
+.ipynb_checkpoints/
+**/.mypy_cache/*
+.mypy_cache/*
+.vscode
+**/weights/**
+**/output/**
+**/predictions/**
+**/wandb/**
+**/output_test/**
+**/pretrained_model/**
+**/test_data/**
+**/train_val_test_data/**
